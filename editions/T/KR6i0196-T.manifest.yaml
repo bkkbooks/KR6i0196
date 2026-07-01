@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0196/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0196/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說轉女身經
+  identifiers:
+    krp: KR6i0196
+    cbeta: T14n0564
+    cbeta_old_id: T14n0564
+    authorityid: CA0004158
+    json_key: T0564
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0564.xml
+    old_id: T14n0564
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0196_000-T.yaml, hash: 'sha256:cc0b3aa5f50d42e69f02e94ce3dae18ca84aca2fb91dec7f42e03d6bb7a24f5a'}
+  - {seq: 1, filename: KR6i0196_001-T.yaml, hash: 'sha256:40c30dcde38ff36096213c6935b57e3f039d412b41eb5d6f674a1cc10c975ee5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0196_000-T.markers.yaml, hash: 'sha256:cd5466f3cfa1645683a07e3a6b48171fcb30319115eeedd48352d9d4d4e1c71b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0196_001-T.markers.yaml, hash: 'sha256:0a0e2f3394dfb4c3a801c81d2398fba7a2d76cd33aedcb130711150d3bc244a4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0196_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8688
+  label: 佛說轉女身經
+  type: juan
+  level: 1
+hash: sha256:edb8a47f944c31f7af2a8bfa3069c9226ce3a6d7031598924f2ee6ad4414a7a4

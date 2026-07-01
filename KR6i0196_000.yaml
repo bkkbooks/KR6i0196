@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0196/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說轉女身經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0564.xml
+    old_id: T14n0564
+hash: sha256:cc0b3aa5f50d42e69f02e94ce3dae18ca84aca2fb91dec7f42e03d6bb7a24f5a
