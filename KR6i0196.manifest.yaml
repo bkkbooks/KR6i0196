@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0196_000.yaml, hash: 'sha256:cc0b3aa5f50d42e69f02e94ce3dae18ca84aca2fb91dec7f42e03d6bb7a24f5a'}
-  - {seq: 1, filename: KR6i0196_001.yaml, hash: 'sha256:df2215cf85055a4a5943b1fa67aafeeeeadfd089a7907bfa5cee9a2d745f043f'}
+  - {seq: 1, filename: KR6i0196_001.yaml, hash: 'sha256:40c30dcde38ff36096213c6935b57e3f039d412b41eb5d6f674a1cc10c975ee5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0196_001.markers.yaml, hash: 'sha256:a9d73447ebf01aef136f4888512f274d24dd2c7b4007ac9a81038d0d256fc32f'}
+  - {seq: 0, role: markers, filename: assets/KR6i0196_000.markers.yaml, hash: 'sha256:982482f085c0baeb2c14a16c560a3f4142e1e5b4e1703860740c54fa128bf50f'}
+  - {seq: 1, role: markers, filename: assets/KR6i0196_001.markers.yaml, hash: 'sha256:1fd86d1d882fac234b00b5850e89ebc68dbf573a09902a07e16bf92c3b8a6c64'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說轉女身經
   type: juan
   level: 1
-hash: sha256:52f2c0a533c2a28e3502a207edaa2e24cfac04063201fd27904e1e4d970ff3ca
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d9b8f5d95a3dd18b73ee0f1585d6110cd03b99b79a33ea08fe44ddd5837b51dd
